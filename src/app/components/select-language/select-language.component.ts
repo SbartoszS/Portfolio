@@ -11,7 +11,6 @@ import { TranslateService } from '@ngx-translate/core';
             <div class="buttons-container">
                 <button class="buttons-container__pl" (click)="useLanguage('pl')">PL</button>
                 <button class="buttons-container__en" (click)="useLanguage('en')">EN</button>
-                <img src="../../assets/github.svg" alt="">
             </div>
         </div>
     </div>
