@@ -5,7 +5,6 @@ import { Component } from '@angular/core';
   template: `
   <div class="container">
     <div class="row">
-      <!-- <div class="col"></div> -->
       <div class="col-12">
         <div class="title-box">
            <h1 class="title-box__title">Bartosz Stojek</h1>
@@ -19,7 +18,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent {
-
-  constructor() { }
 
 }

@@ -1,4 +1,9 @@
 {
     "title": "Component PL works",
-    "text": "To jest ta moc która ogarnia wszechświat jedyny"
+    "text": "To jest ta moc która ogarnia wszechświat jedyny",
+    "menuHome": "Strona Główna",
+    "menuAboutMe": "O Mnie",
+    "menuProjects": "Projekty",
+    "menuTechnologies": "Technologie",
+    "menuContact": "Kontakt"
 }

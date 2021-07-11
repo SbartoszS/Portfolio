@@ -27,7 +27,7 @@ import { translateLoaderFactory } from './translate-loaders';
       cacheMechanism: 'Cookie'
     })
   ],
-  exports: [TranslateModule]
+  exports: [TranslateModule],
 })
 export class I18nModule {
   constructor(

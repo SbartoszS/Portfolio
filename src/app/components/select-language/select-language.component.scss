@@ -5,6 +5,24 @@
 
     &__pl,
     &__en{
+        position: relative;
         color: white;
+    }
+
+    &__pl{
+        margin-right: 3px;
+    }
+
+    &__pl::after{
+        content: "";
+        position: absolute;
+        right: -3px;
+        top: 3px;
+        bottom: 0px;
+        height: 18px;
+        width: 2px;
+        background-color: white;
+        transform: rotate(20deg);    
+        filter: blur(.5px);
     }
 }

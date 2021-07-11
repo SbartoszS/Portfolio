@@ -1,4 +1,9 @@
 {
     "title": "Component EN works",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. r quasi maxime ad dolore."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. r quasi maxime ad dolore.",
+    "menuHome": "Home",
+    "menuAboutMe": "About Me",
+    "menuProjects": "Projects",
+    "menuTechnologies": "Technologies",
+    "menuContact": "Contact"
 }
