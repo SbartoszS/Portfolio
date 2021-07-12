@@ -18,8 +18,6 @@ export class NavbarComponent {
   faEnvelope = faEnvelope;
   faLaptop = faLaptop;
 
-
-
   toggleNavbar() {
     this.navbarOpen = !this.navbarOpen;
   }
