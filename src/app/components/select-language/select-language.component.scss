@@ -1,19 +1,19 @@
 
-.buttons-container{
+.buttons-container {
     padding-top: 12px;
     text-align: right;
+}
 
-    &__pl,
-    &__en{
+.buttons-container-pl,.buttons-container-en {
         position: relative;
         color: white;
-    }
+}
 
-    &__pl{
+.buttons-container-pl{
         margin-right: 3px;
-    }
+}
 
-    &__pl::after{
+.buttons-container-pl::after{
         content: "";
         position: absolute;
         right: -3px;
@@ -24,5 +24,8 @@
         background-color: white;
         transform: rotate(20deg);    
         filter: blur(.5px);
-    }
+}
+
+.active {
+    color: rgb(95, 216, 95);
 }
